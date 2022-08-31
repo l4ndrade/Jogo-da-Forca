@@ -1,8 +1,6 @@
-import re
 import functions as myf
 from random import randint
-from time import sleep
-file = '/home/l4ndrade/VSC/Project-Forca/dados.json'
+file = '/home/l4ndrade/Documentos/Repositórios/Meus Projetos/dados.json'
 
 while True:
 

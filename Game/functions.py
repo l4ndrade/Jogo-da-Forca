@@ -31,7 +31,7 @@ def readint(txt, min, max):
 
 def openjson(file, word='', cat='', action='returndict'):
     try:
-        with(open)(file) as json_file:
+        with open(file) as json_file:
             json_dict = json.load(json_file)
         if action == 'returndict':
             return json_dict
