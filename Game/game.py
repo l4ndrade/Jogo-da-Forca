@@ -1,6 +1,6 @@
 import functions as myf
 from random import randint
-file = '/home/l4ndrade/Documentos/Repositórios/Meus Projetos/dados.json'
+file = '/home/l4ndrade/Documentos/Repositórios/Meus-projetos/Jogo-da-Forca/Game/dados.json'
 
 while True:
 
